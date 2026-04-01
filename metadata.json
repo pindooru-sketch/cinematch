@@ -1,0 +1,5 @@
+{
+  "name": "How Bad Is Your Letterboxd?",
+  "description": "A satirical roast of your film taste based on your Letterboxd profile.",
+  "requestFramePermissions": []
+}
